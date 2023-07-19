@@ -3,7 +3,7 @@
 This is the final project of the DSC106 @UCSD instructed by Professor Soohyun Nam Liao during Spring 2023. The data mainly based on [a kaggle dataset](https://www.kaggle.com/datasets/thedevastator/rotten-tomatoes-top-movies-ratings-and-technical), whereas information about ethinicity is from [wikipedia data](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots). Thanks for collecting of those data which makes my data visualization possible. In this project, I meant to deliver what elements created good movies with the help of three svg plots(scatter plot, goemetric plot, and network plot). For the scatter plot and geometric plot, a ticker will appear when mouse is over data points, introducing the basic information of movies. Also, both the geometric and network plot are able to zoom in and out. You may refer to report.pdf for my intention in the design of this visualization.
 
 ## How to run it?
-1. Download all files in code folder.
+1. Download all files in main folder (data_preprocessing folder is not necessary).
 2. Make sure all data files, images and other files are in the same folder.
 3. Use live server to check index.html and enjoy the interaction!
 
